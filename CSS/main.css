@@ -1,0 +1,33 @@
+h4 {
+  color: red;
+}
+
+p {
+  font-family: Arial;
+}
+
+small {
+  font-family: Arial;
+}
+
+figcaption {
+  font-style: italic;
+}
+
+h2 {
+  font-family: Arial;
+}
+
+h3 {
+  font-family: Arial;
+}
+
+h5 {
+  font-family: Arial;
+  font-style: Bold;
+}
+
+h6 {
+  color: Cyan;
+  background-color: black;
+}
